@@ -19,13 +19,13 @@
 },
 {
 "remote": "ms",
-"repository": "MassStash/android_kernel_samsung_jf",
+"repository": "MassStash/platform_kernel_samsung_jf",
 "target_path": "kernel/samsung/jf",
 "revision": "kk-4.4_new"
 },
 {
 "remote": "ms",
-"repository": "MassStash/platform_hardware_samsung",
+"repository": "MassStash/android_hardware_samsung",
 "target_path": "hardware/samsung",
 "revision": "cm-11.0"
 },
